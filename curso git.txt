@@ -1,8 +1,15 @@
 git init // inicia el seguimiento de archivos de una carpeta
-git add// traslada los archivos a git para segimiento es como sacar una beta
-se utiliza asi : $ git add "NOMBRE DEL ARCHIVO".
-git commit // guarda la copia o snapshot
+git add "" // traslada los archivos a git para segimiento es como sacar una beta
+se utiliza asi : $ git add "NOMBRE DEL ARCHIVO.tipo de archivo".
+git add . // lleva al staging area todo los archivos de la carpeta.
+git commit // guarda la copia o snapshot.
+git commit -am "DESCRIPCION" // hace un add y un commit a la vez con descripcion
 NOTAS: puedes usar git commit -m "mensaje" para escrbir el mensaje directamente
 y si llegas a la consola escribes el mensaje arriba, luego presionas "esc + :wq + enter"
 git status -s // permite ver que esta siendo guardado esta en stagin o en commit
 git log --oneline // sirve para ver el historial de copias
+git reset --hard "codigo de la snapshot" // restaura y borra el archivo hasta la version seleccionada 
+
+
+
+
