@@ -5,4 +5,4 @@ git commit // guarda la copia o snapshot
 NOTAS: puedes usar git commit -m "mensaje" para escrbir el mensaje directamente
 y si llegas a la consola escribes el mensaje arriba, luego presionas "esc + :wq + enter"
 git status -s // permite ver que esta siendo guardado esta en stagin o en commit
-git log --one line // sirve para ver el historial de copias
+git log --oneline // sirve para ver el historial de copias
