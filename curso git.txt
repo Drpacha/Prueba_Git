@@ -37,3 +37,4 @@ git clone <URL DEL GITHUB> // sirve para recuperar informaacion en caso de que s
 
 
 **Aqui modifique en master pero no en Rama1**
+**Merge se hace en la rama master**
