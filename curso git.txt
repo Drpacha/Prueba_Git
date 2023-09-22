@@ -29,3 +29,5 @@ RELASE Y TAGS
 para generar versiones en un futuro descargables ya que todo esto son snapshots utilizaremos el comando
 git tag *datos de informacion* -m "DESCRIPCION" //crear version y tags de un archivo.
 git push --tag // subir tag a github
+git clone <URL DEL GITHUB> // sirve para recuperar informaacion en caso de que se borre la carpeta o algo.
+
