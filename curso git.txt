@@ -18,7 +18,7 @@ git commit --amend // modificar descripcion atravez de los comando de linux :i b
 GITHUB
 
 Despues de crear el repositorio en la pagina de Github
-en la parte de "push an existing repository" copias la primera linea en el hit bash que estes utilizando git.
+en la parte de **push an existing repositor** copias la primera linea en el hit bash que estes utilizando git.
 
 **Esto lo edite desde GITHUB** y **traje atravez de la instruccion "git pull origin master" en Git**.
 >>>>>>> 1e911f1a87310966201c618380491d674e5ce9d5
