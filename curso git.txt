@@ -17,5 +17,9 @@ despues de crear el repositorio en la pagina de Github
 en la parte de "push an existing repository" copias la primera linea en el hit bash que estes utilizando git.
 
 luego haces este comando que manda la rama principal al github "git push -u origin master"
+<<<<<<< HEAD
+=======
+**Esto lo edite desde GITHUB** y **traje atravez de la instruccion git pull en Git**.
+>>>>>>> 1e911f1a87310966201c618380491d674e5ce9d5
 
 
