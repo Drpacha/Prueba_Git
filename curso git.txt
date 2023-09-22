@@ -32,3 +32,8 @@ git tag *datos de informacion* -m "DESCRIPCION" //crear version y tags de un arc
 git push --tag // subir tag a github
 git clone <URL DEL GITHUB> // sirve para recuperar informaacion en caso de que se borre la carpeta o algo.
 
+
+
+
+
+**Aqui modifique en master pero no en Rama1**
