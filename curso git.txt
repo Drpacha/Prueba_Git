@@ -1,3 +1,4 @@
+CURSO GITHUB:https://www.youtube.com/watch?v=axXlYdyDD3I&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU&index=4&ab_channel=pildorasinformaticas
 git init // inicia el seguimiento de archivos de una carpeta
 git add "" // traslada los archivos a git para segimiento es como sacar una beta
 se utiliza asi : $ git add "NOMBRE DEL ARCHIVO.tipo de archivo".
