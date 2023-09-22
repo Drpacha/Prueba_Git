@@ -27,4 +27,5 @@ git pull origin master// trae informacion del repositorio al pc, "master puede s
 
 RELASE Y TAGS
 para generar versiones en un futuro descargables ya que todo esto son snapshots utilizaremos el comando
-git tag *datos de informacion* -m "DESCRIPCION"
+git tag *datos de informacion* -m "DESCRIPCION" //crear version y tags de un archivo.
+git push --tag // subir tag a github
