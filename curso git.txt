@@ -32,3 +32,10 @@ git tag *datos de informacion* -m "DESCRIPCION" //crear version y tags de un arc
 git push --tag // subir tag a github
 git clone <URL DEL GITHUB> // sirve para recuperar informaacion en caso de que se borre la carpeta o algo.
 
+RAMAS
+Esta parte del texto esta siendo modificado en la Rama1
+git branch // sirve para ver en que branch se esta trabajando.
+git branch Nombre // sirve para crear una rama "nombre" es como se llama.
+git checkout // muestra en consola en verde en que rama estas trabajando.
+
+
