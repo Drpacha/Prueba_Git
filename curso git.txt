@@ -1,20 +1,23 @@
 CURSO GITHUB:https://www.youtube.com/watch?v=axXlYdyDD3I&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU&index=4&ab_channel=pildorasinformaticas
+
 git init // inicia el seguimiento de archivos de una carpeta
 git add "" // traslada los archivos a git para segimiento es como sacar una beta
 se utiliza asi : $ git add "NOMBRE DEL ARCHIVO.tipo de archivo".
+
 git add . // lleva al staging area todo los archivos de la carpeta.
 git commit // guarda la copia o snapshot.
 git commit -am "DESCRIPCION" // hace un add y un commit a la vez con descripcion
-NOTAS: puedes usar git commit -m "mensaje" para escrbir el mensaje directamente
+NOTAS: puedes usar git commit -m "mensaje" para escrbir el mensaje 
 y si llegas a la consola escribes el mensaje arriba, luego presionas "esc + :wq + enter"
+
 git status -s // permite ver que esta siendo guardado esta en stagin o en commit
-git log --oneline // sirve para ver el historial de copias
+git log --oneline // sirve para ver el historial de copias, si al final aparece ":" dale a la "q"
 git reset --hard "codigo de la snapshot" // restaura y borra el archivo hasta la version seleccionada 
 git commit --amend // modificar descripcion atravez de los comando de linux :i borras , esc , :i escribes, esc.
 
 GITHUB
 
-despues de crear el repositorio en la pagina de Github
+Despues de crear el repositorio en la pagina de Github
 en la parte de "push an existing repository" copias la primera linea en el hit bash que estes utilizando git.
 
 **Esto lo edite desde GITHUB** y **traje atravez de la instruccion "git pull origin master" en Git**.
