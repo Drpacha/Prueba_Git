@@ -24,3 +24,7 @@ en la parte de "push an existing repository" copias la primera linea en el hit b
 COMANDO CON INTERACCIONES CON EL GIT Y EL GITHUB.
 git push origin master// esto sirve para enviar la informacion del pc al repositorio "master" puede ser cualquier rama
 git pull origin master// trae informacion del repositorio al pc, "master puede ser cualquier rama"
+
+RELASE Y TAGS
+para generar versiones en un futuro descargables ya que todo esto son snapshots utilizaremos el comando
+git tag *datos de informacion* -m "DESCRIPCION"
